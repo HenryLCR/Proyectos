@@ -9,7 +9,7 @@ int main(int argc, char const *argv[])
     system("cls");
     int opcion;
 
-    cout<<"******************************"<<endl;
+    cout<<"********* Game HLC ***********"<<endl;
     cout<<"******* Menu de Juego ********"<<endl;
     cout<<"******************************"<<endl;
     
@@ -34,7 +34,7 @@ int main(int argc, char const *argv[])
         break;
 
     default: 
-            cout<<"Opcion invalida";
+            cout<<"¡¡ Hasta Pronto !! ";
         break;
     }
 
